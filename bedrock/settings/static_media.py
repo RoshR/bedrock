@@ -1596,7 +1596,6 @@ PIPELINE_JS = {
     'stub-attribution': {
         'source_filenames': (
             'js/base/search-params.js',
-            'js/base/mozilla-cookie-helper.js',
             'js/base/stub-attribution.js',
             'js/base/stub-attribution-init.js',
         ),
